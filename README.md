@@ -10,4 +10,4 @@ The work of the this server is to store the data of the visiting-card-android Ap
 * POST operation - To store a new Visiting Card
 * DELETE operation - To Delete a Visiting Card
 
-This Restful Web Service(Rest Api) will be later on integrated with the Visiting Card App and will handle the complete backend of the visiting-card-android App.
+This Restful Web Service (Rest Api) will be later on integrated with the Visiting Card App and will handle the complete backend of the visiting-card-android App.
